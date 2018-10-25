@@ -49,8 +49,8 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 ## How to run the application
 ---
-...Download or clone the repository...
-...Open the folder containing the HTML file and open it in your browser...
-...Open the js folder for the source codes...
-...Open the spec folder in the jasmine folder to see the tests.
+---Download or clone the repository.--
+---Open the folder containing the HTML file and open it in your browser.--
+---Open the js folder for the source codes.--
+---Open the spec folder in the jasmine folder to see the tests.
 
